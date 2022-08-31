@@ -4,6 +4,7 @@ yml_header_string
 
 Ejemplo de ejecución:
 
+/*
 #include <iostream>
 #include"YML_readchange_parameter.hpp"
 
@@ -20,5 +21,4 @@ int main()
     std::cout << "Valor mod(file): " << readvalue("parametro1", "C:/Users/Héctor/source/repos/YML_header") << "\n";
 }
 
-
-
+*/
